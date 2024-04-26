@@ -532,9 +532,9 @@
   line-height: 27px;
 }
 .home-link06 {
-  width: 165px;
-  height: 41px;
-  margin-top: 20px;
+  width: auto;
+  height: auto;
+  margin-top: 10px;
   margin-left: 0px;
   margin-right: 0px;
   padding-bottom: var(--dl-space-space-unit);
